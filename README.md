@@ -157,8 +157,8 @@ project/
 
 ##  Author
 
-**Laila Tarek**
-**Hana Tariq**
+- **Laila Tarek**
+- **Hana Tariq**
 
 ```
 
